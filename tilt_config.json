@@ -1,0 +1,4 @@
+{
+	"to_run": ["weather-frontend"],
+	"to_run_external": ["redis"]
+}
